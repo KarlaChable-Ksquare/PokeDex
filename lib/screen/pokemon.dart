@@ -46,7 +46,7 @@ class PokemonScreen extends StatelessWidget {
                         fontSize: 20, fontWeight: FontWeight.bold),
                   ),
                   Text(
-                    data['form'] ?? '',
+                    data['form'] == null ? '' : data['form'].toString(),
                     style: const TextStyle(
                         fontSize: 16, fontWeight: FontWeight.bold),
                   ),

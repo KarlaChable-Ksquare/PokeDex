@@ -38,7 +38,7 @@ class PokedexScreen extends StatelessWidget {
                             'id': pokemon['id'].toString(),
                             'pokemonId': pokemon['pokemonId'],
                             'name': pokemon['name'],
-                            'form': pokemon['form'],
+                            'form': pokemon['form'] ?? '',
                             'type1': pokemon['type1'],
                             'type2': pokemon['type2'],
                             'generation': pokemon['generation'].toString(),
@@ -60,7 +60,9 @@ class PokedexScreen extends StatelessWidget {
                               ),
                             ),
                             title: Text(pokemon['pokemonId'].toString()),
-                            subtitle: Text(pokemon['form'] ?? ''),
+                            subtitle: Text(pokemon['form'] == null
+                                ? ''
+                                : pokemon['form'].toString()),
                           ),
                         ),
                       );

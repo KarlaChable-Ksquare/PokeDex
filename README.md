@@ -8,10 +8,10 @@ Karla Chable
 ![Home](./screenshots/screen1.png)
 
 ###  Electric
-![Pikachu_okinawa](./screenshots/pikachu.png)
+![Pikachu_okinawa](./screenshots/screen2_pikachu.png)
 
 ###  Fire
-![CharizardX](./screenshots/charizardX.png)
+![CharizardX](./screenshots/screen2_charizardX.png)
 
 ###  Ice
-![Vulpix_Alola](./screenshots/vulpixA.png)
+![Vulpix_Alola](./screenshots/screen2_vulpixA.png)
