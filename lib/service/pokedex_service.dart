@@ -23,5 +23,5 @@ class PokedexService {
 
 void main() async {
   var pokemones = await PokedexService().fetchPokemon();
-  print(pokemones[0]);
+  //print(pokemones[0]);
 }

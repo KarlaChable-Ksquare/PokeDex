@@ -34,6 +34,9 @@ class PokemonScreen extends StatelessWidget {
                       size: 65,
                     ),
                   ),
+                  Text('# ${data['id']}',
+                      style: const TextStyle(
+                          fontSize: 18, fontWeight: FontWeight.normal)),
                   const SizedBox(
                     height: 8.0,
                   ),
@@ -49,12 +52,6 @@ class PokemonScreen extends StatelessWidget {
                   ),
                   const SizedBox(
                     height: 4.0,
-                  ),
-                  Text('Number: ${data['id']}',
-                      style: const TextStyle(
-                          fontSize: 18, fontWeight: FontWeight.w400)),
-                  const SizedBox(
-                    height: 8.0,
                   ),
                   Text('Type 1:  ${data['type1']}',
                       style: const TextStyle(

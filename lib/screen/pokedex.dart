@@ -14,9 +14,7 @@ class PokedexScreen extends StatelessWidget {
         backgroundColor: Colors.red,
         actions: [
           IconButton(
-            onPressed: () {
-              Navigator.pushNamed(context, '/pokemon');
-            },
+            onPressed: () {},
             icon: const Icon(Icons.catching_pokemon_outlined),
           )
         ],

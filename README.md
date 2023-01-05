@@ -1,16 +1,17 @@
-# pokedex
+# Pokedex
+A new Flutter project. Testing size in motorola E 6 plus using Vyzor.
 
-A new Flutter project.
+## Practice Navigator, Http & UI
+Karla Chable
 
-## Getting Started
+### Pokedex
+![Home](./screenshots/screen1.png)
 
-This project is a starting point for a Flutter application.
+###  Electric
+![Pikachu_okinawa](./screenshots/pikachu.png)
 
-A few resources to get you started if this is your first Flutter project:
+###  Fire
+![CharizardX](./screenshots/charizardX.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+###  Ice
+![Vulpix_Alola](./screenshots/vulpixA.png)
