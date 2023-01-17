@@ -15,3 +15,12 @@ Karla Chable
 
 ###  Ice
 ![Vulpix_Alola](./screenshots/screen2_vulpixA.png)
+
+###  Dark
+![Moltres_Galarian](./screenshots/screen2_moltresGal.png)
+
+###  Water
+![slowbro2021](./screenshots/screen2_slowbro2021.png)
+
+###  Grass
+![Victreebel](./screenshots/screen2_victreebel.png)
